@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandumidatha&label=Profile%20views&color=0e75b6&style=flat" alt="chandumidatha" /> </p>
 
-- 💬 Ask me about **AWS, Digital Ocean and DevOps**
+- 💬 Ask me about **Cloud and DevOps**
 
 - 📫 How to reach me **chandrasekharmidatha@gmail.com**
 
